@@ -95,7 +95,7 @@ footer{
 
 @media (min-width: 700px) {
 body{
-    background-image: url("./desktopbg.png");
+    background-image: url("./pattern-background-desktop.svg");
 }
 .main{
     padding: 20px;
@@ -113,7 +113,7 @@ body{
 }
 @media (max-width: 699px) {
     body {
-        background-image: url('./mobilebg.png');
+        background-image: url('./pattern-background-mobile.svg');
         background-position: center top;
         background-size: cover;
     }
