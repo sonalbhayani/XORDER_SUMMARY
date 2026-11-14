@@ -74,6 +74,10 @@ body{
     font-weight: 600;
     margin-top: 20px;
 }
+.proceed-btn:hover{
+    background-color: #7A7EC3;
+    cursor: pointer;
+}
 .cancel-order{
     color: #A1A5BF;
     font-size: 20px;
@@ -84,6 +88,10 @@ body{
     border: none;
     background-color: #ffff;
    
+}
+.cancel-order:hover{
+    color: #3829E0;
+    cursor: pointer;
 }
 footer{
     text-align: center;
